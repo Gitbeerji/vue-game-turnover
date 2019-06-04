@@ -1,4 +1,4 @@
-# game
+# 基于Vue的翻牌小游戏
 
 > A Vue.js project
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+目前仅有基础的游戏逻辑，界面设计暂未处理
